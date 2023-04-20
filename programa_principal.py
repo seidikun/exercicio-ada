@@ -14,4 +14,4 @@ for paragrafo in texto4:
   print(paragrafo)
   time.sleep(5)
   
- print('É ISSO. FIM')
+print('É ISSO. FIM')
