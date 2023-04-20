@@ -2,5 +2,4 @@
 
 def function3(texto):
 # Seu código aqui
-	texto.append('aa')
-	return texto
+	return 
